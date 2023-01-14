@@ -29,7 +29,7 @@ class Methode {
         // Boucle for qui fonctionne comme partout, on par de i (0) avec i=0, la boucle se repete 5 fois car on va à i<5 ( strictement inférieur à 5 donc 0,1,2,3,4)
         // i++ signifie qu'on incrémente, l'inverse est i--
         for (int i=0; i<5;i++) {
-            System.out.println("Clap your brother ( dimitri:draft !");
+            System.out.println("Clap your brother !");
          }
     }
 }
